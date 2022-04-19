@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vinh2k1bn
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning C, C++ and Python
-- 💞️ I’m looking to collaborate on GitHub, Microsoft Teams, Google Drive and One Drive
+- 🌱 I’m currently learning C++, PowserShell and Python
 - 📫 How to reach me</br>
 Email : vinh2k1bn@gmail.com </br>
 Messenger : https://www.m.me/vinh2k1bn/
